@@ -1,4 +1,4 @@
-<h2 align="center">👋🏼 About Me 👋🏼 </h2>
+<h3 align="center">👋🏼 About Me 👋🏼 </h3>
 <h5 align="center">홍익대학교 컴퓨터공학과 (2021.03 ~ )</h5>
 <h5 align="center">IT 연합 동아리 코테이토 6기 운영지원팀장 (2023.03 ~ 2023.06)</h5>
 <h5 align="center">IT 연합 동아리 코테이토 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)</h5>
