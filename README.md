@@ -1,5 +1,5 @@
 <h3 align="center">👋🏼 About Me 👋🏼 </h3>
-<div align="center">
+<div>
 홍익대학교 컴퓨터공학과 (2021.03 ~ )<br/> 
 IT 연합 동아리 코테이토 6기 운영지원팀장 (2023.03 ~ 2023.06)<br/> 
 IT 연합 동아리 코테이토 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)<br/>  
@@ -9,8 +9,7 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 <h3 align="center">💻 My Github Stats 💻 </h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunhacandy)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
