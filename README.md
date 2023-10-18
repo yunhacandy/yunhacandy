@@ -10,6 +10,7 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 <div align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunhacandy)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&count_private=true)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
