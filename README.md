@@ -8,7 +8,7 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 # 💻 My Github Stats 💻 
 <div align="center">
   
-![Yun Ha Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&count_private=true)
+![Yun Ha Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&show_icons=true&theme=dracula)
 </div>
 
 # 📚 Tech Stack 📚
