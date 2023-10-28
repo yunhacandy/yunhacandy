@@ -14,8 +14,8 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 
 
 # 📚 Tech Stack 📚
-Techs that I've used at least once
-### Platforms & Languages
+###Techs that I've used at least once
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?$style=for-the-badge&logo=R&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?$style=for-the-badge&logo=Java&logoColor=white)
@@ -25,7 +25,6 @@ Techs that I've used at least once
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?$style=for-the-badge&logo=JavaScript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
