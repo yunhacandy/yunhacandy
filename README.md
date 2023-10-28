@@ -14,7 +14,7 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 
 
 # 📚 Tech Stack 📚
-###Techs that I've used at least once
+### Techs that I've used at least once
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?$style=for-the-badge&logo=R&logoColor=white)
