@@ -1,4 +1,4 @@
-# 👋🏼 About Me 👋🏼
+## 👋🏼 About Me 👋🏼
 홍익대학교 컴퓨터공학과 (2021.03 ~ )<br/>
 IT 연합 동아리 코테이토 6기 운영지원팀장 (2023.03 ~ 2023.06)<br/>
 IT 연합 동아리 코테이토 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)<br/> 
@@ -13,7 +13,7 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhacandy&&count_private=true&show_icons=true&layout=compact)
 -->
 
-# 📚 Tech Stack 📚
+## 📚 Tech Stack 📚
 ### Techs that I've used at least once
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
