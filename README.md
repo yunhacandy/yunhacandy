@@ -17,7 +17,7 @@
 -->
 
 ## 📚 Tech Stack 📚
-### Techs that I've used at least once
+#### Techs that I've used at least once
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?$style=for-the-badge&logo=R&logoColor=white)
