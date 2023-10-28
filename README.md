@@ -11,6 +11,10 @@ IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 ![Yun Ha Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&show_icons=true)
 </div>
 
+
+# Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhacandy&layout=compact)
+
 # 📚 Tech Stack 📚
 Techs that I've used at least once
 ### Platforms & Languages
