@@ -1,12 +1,11 @@
-#👋🏼 About Me 👋🏼
+# 👋🏼 About Me 👋🏼
+홍익대학교 컴퓨터공학과 (2021.03 ~ )<br/>
+IT 연합 동아리 코테이토 6기 운영지원팀장 (2023.03 ~ 2023.06)<br/>
+IT 연합 동아리 코테이토 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)<br/> 
+IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/>
 
-홍익대학교 컴퓨터공학과 (2021.03 ~ )<br/> 
-IT 연합 동아리 코테이토 6기 운영지원팀장 (2023.03 ~ 2023.06)<br/> 
-IT 연합 동아리 코테이토 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)<br/>  
-IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)<br/> 
 
-
-#💻 My Github Stats 💻 
+# 💻 My Github Stats 💻 
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&count_private=true)
