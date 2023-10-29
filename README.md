@@ -28,6 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?$style=for-the-badge&logo=JavaScript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 
 
 
