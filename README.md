@@ -1,5 +1,5 @@
 ## About Me 👋🏼
-- 👩🏻‍🎓 I'm majoring in `Computer Engineering` at Hongik University (2021.03 ~ )
+- 👩🏻‍🎓 I'm majoring in `Computer Engineering` at `Hongik University` (2021.03 ~ )
 
 ## Activity 👥
 - IT 연합 동아리 코테이토 6기 운영지원팀 (2023.03 ~ 2023.06)
