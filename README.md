@@ -7,6 +7,10 @@
 - IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)
 - GDSC Hongik (2023.03 ~ )
 
+## Projects 👥
+- 시각장애인을 위한 마약 탐지 어플리케이션 `WeedEyes`
+- IT 연합 동아리 코테이토 CS 문제풀이 웹사이트
+- 숏폼 동영상 자동 요약 및 분류 어플리케이션 `ShortCap`
 <!--
 # 💻 My Github Stats 💻 
 ![Yun Ha Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&count_private=true&show_icons=true&layout=compact)
@@ -31,6 +35,5 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-
+![FireBase]("https://img.shields.io/badge/Firebase-FC0101?style=flat&logo=Firebase&logoColor=white")
 
