@@ -7,7 +7,7 @@
 - IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)
 - GDSC Hongik (2023.03 ~ )
 
-## Projects 👥
+## Projects 💻
 - 시각장애인을 위한 마약 탐지 어플리케이션 `WeedEyes`
 - IT 연합 동아리 코테이토 CS 문제풀이 웹사이트
 - 숏폼 동영상 자동 요약 및 분류 어플리케이션 `ShortCap`
@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhacandy&&count_private=true&show_icons=true&layout=compact)
 -->
 
-## 📚 Tech Stack 📚
+## Tech Stack 📚
 #### Techs that I've used at least once
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
