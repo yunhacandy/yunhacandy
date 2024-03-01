@@ -2,11 +2,12 @@
 - 👩🏻‍🎓 I'm majoring in `Computer Engineering` at `Hongik University` (2021.03 ~ )
 
 ## Activity 👥
+- GDSC Hongik (2023.03 ~ 2024.02)
 - IT 연합 동아리 코테이토 6기 운영지원팀 (2023.03 ~ 2023.06)
 - IT 연합 동아리 코테이토 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)
 - IT 연합 동아리 코테이토 8기 회장 (2023.09~2024.02)
 - IT 연합 동아리 코테이토 9기 교육팀원
-- GDSC Hongik (2023.03 ~ 2024.08)
+
 
 ## Projects 💻
 - 시각장애인을 위한 마약 탐지 어플리케이션 `WeedEyes`
