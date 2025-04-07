@@ -29,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy/)
 
 ## Activity 👥
@@ -40,6 +40,11 @@
 - IT 연합 동아리 코테이토 9기 교육팀원 & 기획 파트장 (2024.03 ~ 2024.08)
 - 백엔드 체험형 인턴십 (2025.01 ~ 2025.03)
 
+## Certifications 🧾 
+🇰🇷 SQLD - Structured Query Language Developer
+🌐 TOEIC Speaking AL 
+💡 AICE Basic, Associate - AI Certificate for Everyone
+📈 GAIQ - Google Analytics Individual Qualification
 
 ## Projects 💻
 <!--
