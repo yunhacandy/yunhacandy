@@ -40,10 +40,10 @@
 - 백엔드 체험형 인턴십 (2025.01 ~ 2025.03)
 
 ## Certifications 🧾 
-🇰🇷 SQLD - Structured Query Language Developer
-🌐 TOEIC Speaking AL 
-💡 AICE Basic, Associate - AI Certificate for Everyone
-📈 GAIQ - Google Analytics Individual Qualification
+🇰🇷 SQLD - Structured Query Language Developer  
+🌐 TOEIC Speaking AL   
+💡 AICE Basic, Associate - AI Certificate for Everyone  
+📊 GAIQ - Google Analytics Individual Qualification  
 
 ## Projects 💻
 <!--
