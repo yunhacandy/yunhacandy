@@ -17,7 +17,7 @@
 
 ## Certifications 🧾 
 🇰🇷 SQLD - Structured Query Language Developer  
-🌐 TOEIC Speaking Advanced Low (170)
+🌐 TOEIC Speaking Advanced Low (170)  
 💡 AICE Basic, Associate - AI Certificate for Everyone  
 📊 GAIQ - Google Analytics Individual Qualification  
 
