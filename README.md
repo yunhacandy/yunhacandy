@@ -2,7 +2,7 @@
 - 👩🏻‍🎓 I'm majoring in `Computer Engineering` at `Hongik University` (2021.03 ~ 2026.02)
 <div align="center">
   
-[![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy/)
 
 </div>
