@@ -1,9 +1,9 @@
 ## About Me 👋🏼
+> 🌱 *"Better than yesterday"*
 - 👩🏻‍🎓 I'm majoring in `Computer Engineering` at `Hongik University` (2021.03 ~ 2026.02)
 <div align="center">
   
-[![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy/)
+[![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy/)
 
 </div>
 
@@ -24,9 +24,6 @@
 📊 GAIQ - Google Analytics Individual Qualification  
 
 ## Projects 💻
-<!--
-- 시각장애인을 위한 마약 탐지 어플리케이션 `WeedEyes`
--->
 - IT 연합 동아리 코테이토 CS 문제풀이 웹사이트 `cotato.kr`
 - 숏폼 동영상 자동 요약 및 분류 어플리케이션 `ShortCap`
 - 취준 기록 웹사이트 `성장통`
