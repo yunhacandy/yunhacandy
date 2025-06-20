@@ -1,5 +1,5 @@
 ## About Me 👋🏼
-> 🌱 *"Better than yesterday"*
+🌱 *"Better than yesterday"*
 - 👩🏻‍🎓 I'm majoring in `Computer Engineering` at `Hongik University` (2021.03 ~ 2026.02)
 <div align="center">
   
