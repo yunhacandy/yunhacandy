@@ -18,10 +18,10 @@
 - 경영지원 전산파트 체험형 인턴십 (2025.07 ~ 2025.08)
 
 ## Certifications 🧾 
-🇰🇷 SQLD - Structured Query Language Developer  
-🌐 TOEIC Speaking Advanced Mid (180)  
-💡 AICE Basic, Associate - AI Certificate for Everyone  
-📊 GAIQ - Google Analytics Individual Qualification  
+ - SQLD
+ - TOEIC Speaking Advanced Mid (180)
+ - AICE Basic, Associate
+ - GAIQ
 
 ## Projects 💻
 - IT 연합 동아리 코테이토 CS 문제풀이 웹사이트 `cotato.kr`
