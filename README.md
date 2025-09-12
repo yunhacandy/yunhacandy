@@ -1,6 +1,6 @@
 ## About Me 👋🏼
 🌱 *"Better than yesterday"*
-- 👩🏻‍🎓 I'm majoring in `Computer Engineering` at `Hongik University` (2021.03 ~ 2026.02)
+- 👩🏻‍🎓 I'm majoring in `Computer Engineering`(2021.03 ~ 2026.02)
 <div align="center">
   
 [![Yunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhacandy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy/)
@@ -8,7 +8,7 @@
 </div>
 
 ## Activity 👥
-- GDSC Hongik (2023.03 ~ 2024.02)
+- GDSC (2023.03 ~ 2024.02)
 - IT 연합 동아리 코테이토
   - 6기 운영지원팀 (2023.03 ~ 2023.06)
   - 7기 운영진 운영지원팀장(2023.07 ~ 2023.08)
@@ -44,15 +44,6 @@ Techs that I've used at least once
     <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
     <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
-</div>
-<br />
-
-### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 <br />
 
