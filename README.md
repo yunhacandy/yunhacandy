@@ -18,7 +18,7 @@
  - SQLD
  - TOEIC Speaking Advanced Mid (180)
  - AICE Basic, Associate
- - GAIQ
+ - GA4
 
 ## Projects 💻
 - IT 연합 동아리 코테이토 CS 문제풀이 웹사이트 `cotato.kr`
