@@ -22,9 +22,9 @@
  - GA4
 
 ## Projects 💻
+- AI 기반 취준 기록 웹사이트 `성장통`
 - IT 연합 동아리 코테이토 CS 문제풀이 웹사이트 `cotato.kr`
 - 숏폼 동영상 자동 요약 및 분류 어플리케이션 `ShortCap`
-- 취준 기록 웹사이트 `성장통`
 
 ## Tech Stack 📚
 Techs that I've used at least once
