@@ -7,7 +7,7 @@
 ## Algorithm Solving
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy)
-[![Programmers 프로필](https://raw.githubusercontent.com/yunhacandy/programmers-badge/master/static/result.svg)](https://github.com/yunhacandy/programmers-badge)
+[![Programmers 프로필](https://raw.githubusercontent.com/yunhacandy/programmers-badge/master/static/result.svg?ver=1)](https://github.com/yunhacandy/programmers-badge)
 
 
 ## Activity 👥
