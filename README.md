@@ -4,6 +4,12 @@
 <div align="center">
 </div>
 
+## Algorithm Solving
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunhacandy)](https://solved.ac/yunhacandy)
+[![Programmers 프로필](https://raw.githubusercontent.com/yunhacandy/programmers-badge/master/static/result.svg)](https://github.com/yunhacandy/programmers-badge)
+
+
 ## Activity 👥
 - GDSC (2023.03 ~ 2024.02)
 - IT 연합 동아리 코테이토 (2023.03 ~ 2024.08)
